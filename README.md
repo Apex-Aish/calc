@@ -20,6 +20,3 @@ A clean, minimal calculator built with HTML, CSS, and JavaScript.
 
 Simply open the `index.html` file in any modern web browser to use the calculator.
 
-## Preview
-
-The calculator features a minimal design with a clean white interface and subtle color accents.
